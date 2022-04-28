@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "test": "nuxt test"
+  },
+  "devDependencies": {
+    "@nuxt/test-utils-edge": "^3.0.0-rc.1-27517945.7e912e7",
+    "nuxt": "3.0.0-rc.1",
+    "vitest": "^0.10.0"
+  }
+}
